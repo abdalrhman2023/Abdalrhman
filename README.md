@@ -25,24 +25,24 @@ Hi, I'm Abdalrhman Mahmoud
 
 
 <p align="center">
-   <img src="https://komarev.com/ghpvc/?username=mmtrabya&label=Profile%20views&color=f50000&style=plastic" alt="mmtrabya" /> 
+   <img src="https://komarev.com/ghpvc/?username=abdalrhman2023&label=Profile%20views&color=f50000&style=plastic" alt="mmtrabya" /> 
   •
-    <a href="https://user-badge.committers.top/egypt_private/mmtrabya"
+    <a href="https://user-badge.committers.top/egypt_private/abdalrhman2023"
       ><img
-        src="https://user-badge.committers.top/egypt_private/mmtrabya.svg"
+        src="https://user-badge.committers.top/egypt_private/abdalrhman2023.svg"
     /></a>
     •
     <img
       alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜"
-      src="https://img.shields.io/github/followers/mmtrabya?label=Followers&style=social"
+      src="https://img.shields.io/github/followers/abdalrhman2023?label=Followers&style=social"
     />
     •
     <img
-      src="https://img.shields.io/github/stars/mmtrabya?label=Stars"
+      src="https://img.shields.io/github/stars/abdalrhman2023?label=Stars"
       alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜"
     />
     •
-    <a href="https://github.com/sponsors/mmtrabya"
+    <a href="https://github.com/sponsors/abdalrhman2023"
       ><img
         src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86"
     /></a>
@@ -112,9 +112,9 @@ Hi, I'm Abdalrhman Mahmoud
 ###
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=mmtrabya&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=false&disable_animations=false&theme=gotham&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=mmtrabya&locale=en&mode=daily&theme=gotham&hide_border=false&border_radius=5&date_format=M j[, Y]" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mmtrabya&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gotham&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=abdalrhman2023&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=false&disable_animations=false&theme=gotham&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=abdalrhman2023&locale=en&mode=daily&theme=gotham&hide_border=false&border_radius=5&date_format=M j[, Y]" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abdalrhman2023&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gotham&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 
@@ -122,7 +122,7 @@ Hi, I'm Abdalrhman Mahmoud
     
 
  
- <h2> 🌱 I’m currently learning MLops, Embedded Systems, IoT, ROS2, and Raspberry Pi</h2>
+ <h2> 🌱 I’m currently learning  Machine Learning </h2>
     
 </p>
 
@@ -133,17 +133,14 @@ Hi, I'm Abdalrhman Mahmoud
 ###
 
 <div align="center">
-  <a href="https://www.facebook.com/mohamed.tarabay.77/" target="_blank">
+  <a href="https://www.facebook.com/profile.php?id=100011953803831" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=black&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
   </a>
-  <a href="https://www.instagram.com/themohammedtarabay/" target="_blank">
+  <a href="https://www.instagram.com/abdalrahma__qassem" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=black&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
-  <a href="https://www.linkedin.com/in/mohammed-tarabay-36b956235/" target="_blank">
+  <a href="https://www.linkedin.com/in/abdalrhman-badawi-6b67032a1/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=black&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.hackerrank.com/midotarabay66" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=black&labelColor=&style=for-the-badge" height="35" alt="hackerrank logo"  />
   </a>
 </div>
 
